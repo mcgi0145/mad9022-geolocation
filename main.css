@@ -1,0 +1,56 @@
+
+
+h1{
+ padding: 8%;
+margin: 0 auto;
+text-align: center;
+background-color: #669933;
+color: Black;        
+}
+
+#cancan{
+text-shadow: 1px 1px #333300;
+}
+
+#latlong{
+text-align: center;    
+padding: 3%;
+width: 400px;
+margin: 0 auto;
+}
+
+
+#bodbod{
+ margin: 0 auto;   
+ text-align: center;  
+}
+
+
+
+
+/****
+footer
+****/
+
+#kenz{
+padding: 1%;   
+text-align: left;   
+    
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 30px; /* bottom = footer height */
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    padding: 1%;
+}
